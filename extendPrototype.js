@@ -1,4 +1,4 @@
-// https://github.com/atakane/extended-javascript-prototypes
+// https://github.com/atakane/js-extended-prototypes
 
 // Extended prototype methods for JavaScript's String and Date
 // Some of them taken from internet, references added.
